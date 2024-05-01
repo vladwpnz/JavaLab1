@@ -1,1 +1,2 @@
-# JavaLab1
+# Java
+Lab1,Lab2
